@@ -9,6 +9,8 @@ To keep up with updates join our Discord server!
 A simple Dread Hunger overlay made by Serega that you can use to start and join a server. It uses the same server infrastructure as Conductor Discord bot so all the same features are supported.
 
 ### Installation
+You can download the latest version (v1.1) of the overlay [here](https://github.com/Unofficial-DH/dh-server-overlay/releases/tag/v1.1) (Click on ***DHServerOverlayv1.1.rar***).
+
 To install the overlay, simply extract the files to `DreadHunger\Binaries\Win64`
 
 (e.g. `C:\Program Files (x86)\Steam\steamapps\common\Dread Hunger\DreadHunger\Binaries\Win64`).
