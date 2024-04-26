@@ -18,6 +18,8 @@ To install the overlay, simply extract the files to `DreadHunger\Binaries\Win64`
 ### Using the overlay 
 Once in game, press ***O*** to open the overlay. We recommend pressing ***ESC*** first in order to get a cursor and then pressing ***O***. Once you have selected all the options for your game press ***Create Server*** and wait for a server to start (it will usually take around 20-30 seconds). Once the server is ready and you have a full lobby simply click on ***Join server*** and your game will start (there is no need to start the ship or drive it forward).
 
+![Dread Hunger Server Overlay](https://i.imgur.com/83sgdUE.jpeg)
+
 ### FAQ
 **?** Can I use the overlay to join a server that is not created using the overlay itself?
 - Absolutely, Just copy the IP into the input field and click on ***Join Server***.
@@ -92,4 +94,5 @@ All mods except *Old Guns* Is made by ***The Septenary Gods*** team, and only so
 - **Vule** - who made the backend server infrastructure and API that the Overlay communicates with
 - **The Septenary Gods** team - for making all the amazing mods that we use
 - Huge thanks to **Vikke**, **Xion** and **Hopdop** for helping with testing the Overlay and **Melody** for designing ship templates and helping with designing Discord notifications and various stuff.
-# ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
+
+---
