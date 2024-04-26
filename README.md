@@ -1,10 +1,16 @@
-# Dread Hunger Server Overlay
+![Dread Hunger Server Overlay](https://i.imgur.com/m5ytNh0.jpg)
+
+To keep up with updates join our Discord server!
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/WvR7CfdW)](https://discord.gg/WvR7CfdW)
+
 
 ## Introducing Dread Hunger Server Overlay
 A simple Dread Hunger overlay made by Serega that you can use to start and join a server. It uses the same server infrastructure as Conductor Discord bot so all the same features are supported.
 
 ### Installation
 To install the overlay, simply extract the files to `DreadHunger\Binaries\Win64`
+
 (e.g. `C:\Program Files (x86)\Steam\steamapps\common\Dread Hunger\DreadHunger\Binaries\Win64`).
 
 ### Using the overlay 
