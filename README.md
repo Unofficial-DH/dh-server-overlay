@@ -2,7 +2,7 @@
 
 To keep up with updates join our Discord server!
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/WvR7CfdW)](https://discord.gg/WvR7CfdW)
+[![Join our Discord server!](https://invidget.switchblade.xyz/RHUHsDwNrS)](https://discord.gg/RHUHsDwNrS)
 
 
 ## Introducing Dread Hunger Server Overlay
@@ -75,8 +75,12 @@ This mod aims to recreate how guns worked before the armory update. Changes incl
 - Flintlock can spawn on Officer skeletons (ones you dig up)
 ### Random roles
 Players will be asigned a random role at the start of the game.
+### Random spells
+Thralls will have 3 random spells.
 ### Ship Automove
 Ship will be automatically moved a bit further at the start of the game. Players will spawn without coal.
+### Start Hushed
+Tier 2 Hush will be cast at the start of the game.
 ### Start w/ Spell Charge
 Thralls will start the game with a small amount of spell charge.
 ### Quests
